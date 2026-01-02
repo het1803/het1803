@@ -19,7 +19,7 @@ I am a first-year **Electronics and Electrical Engineering (EEE)** student at **
 I'm currently preparing for GSoC 2026. I am particularly interested in **Decentralized Governance** and **Algorithmic Voting**. I'm spending my time reading through open-source codebases to understand how large-scale systems handle transparency and fairness.
 
 ### 📫 Let's Connect:
-- [LinkedIn](Your-Link-Here)
+- LinkedIn: www.linkedin.com/in/het-patel-a9728336b
 - Email: hetpatel3188@gmail.com
 
 ---
