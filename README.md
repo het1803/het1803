@@ -16,7 +16,7 @@ I am a first-year **Electronics and Electrical Engineering (EEE)** student at **
 - **Electronics and Robotics Club (ERC), BITS Goa:** Working on hardware-software integration and exploring embedded systems.
 
 ### 🔭 GSoC 2026 Journey
-I'm currently preparing for GSoC 2026. I am particularly interested in **Decentralized Governance** and **Algorithmic Voting**. I'm spending my time reading through open-source codebases to understand how large-scale systems handle transparency and fairness.
+I'm currently preparing for GSoC 2026.
 
 ### 📫 Let's Connect:
 - LinkedIn: www.linkedin.com/in/het-patel-a9728336b
